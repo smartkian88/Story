@@ -1,2 +1,6 @@
 this is chapter2. yes
+<<<<<<< HEAD
 This is modification in chapter2 under master branch.
+=======
+modification of chapter2 under ghost branch
+>>>>>>> ghost

@@ -1,2 +1,6 @@
 This is my first chapter1 text file.
+<<<<<<< HEAD
 This is the modification of chapter1 under master branch.
+=======
+this modification under ghost branch.
+>>>>>>> ghost

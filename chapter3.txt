@@ -1,2 +1,6 @@
 heihei, this is chapter san
+<<<<<<< HEAD
 This is modificaiton in chapter3.txt under master branch
+=======
+modification under ghost branch
+>>>>>>> ghost
