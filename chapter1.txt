@@ -1,1 +1,2 @@
 This is my first chapter1 text file.
+This is the modification of chapter1 under master branch.
